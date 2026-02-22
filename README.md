@@ -8,6 +8,7 @@ Proyecto de Aprendizaje por Refuerzo donde entrenamos un coche en TORCS utilizan
 - Freno (Brake)
 
 Este proyecto implementa un agente basado en Q-Learning que interactúa con el simulador TORCS.
+
 El agente aprende una política óptima mediante exploración y explotación, actualizando su función Q en base a recompensas obtenidas durante la conducción.
 
 El sistema incluye:
